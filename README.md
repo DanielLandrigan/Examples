@@ -1,1 +1,1 @@
-# Examples
+IT professional with 4 years of experience, seeking a challenging and rewarding position in Information Technology. My expertise lies in installing new systems, troubleshooting complex issues, and performing preventative maintenance on sophisticated systems. I possess strong critical thinking and complex problem solving  abilities and excellent interpersonal skills. I am able to effectively interact within a team as well as being a highly self-motivated and detail-oriented individual, able to work individually delivering quality work and meeting project deadlines.
