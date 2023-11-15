@@ -1,3 +1,4 @@
+# This script needs to be ran in PowerShell within the Unity project
 # Define the path to the CSV file
 $csvFilePath = "C:\Users\danie\Crafting\Assets\Scripts\ItemSOs\ItemsSheet.csv"
 
